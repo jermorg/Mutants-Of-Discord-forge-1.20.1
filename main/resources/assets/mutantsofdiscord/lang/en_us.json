@@ -1,0 +1,27 @@
+{
+  "item.mutantsofdiscord.cocacolaoriginal": "Coca Cola",
+  "item.mutantsofdiscord.cocacola_999": "Ultra Cola",
+  "item.mutantsofdiscord.pepsi_original": "Pepsi",
+  "item.mutantsofdiscord.okroshka": "Okroshka",
+
+  "item.mutantsofdiscord.panteon_trident": "Pantheon Spear",
+  "item.mutantsofdiscord.panteon_trident.tooltip": "The legendary Pantheon's Spear\n\nDraw by: :)",
+
+  "item.mutantsofdiscord.lolrandomdrop": "League Of Legends Random Drop",
+  "chat.mutantsofdiscord:lolrandomdrop.nothing_drop": "Nothing droped(",
+
+  "item.mutantsofdiscord.cigarette_3d": "Cigarette",
+  "item.mutantsofdiscord.creepy_nuts_otonoke_disc": "Creepy Nuts - Otonoke disc",
+  "item.mutantsofdiscord.creepy_nuts_otonoke_disc.desc": "Creepy Nuts - Otonoke (DAN DAN DAN)",
+  "item.mutantsofdiscord.napalm_death_you_suffer_disc": "Napalm Death - You Suffer disc",
+  "item.mutantsofdiscord.napalm_death_you_suffer_disc.desc": "Napalm Death - You Suffer",
+
+  "block.mutantsofdiscord.sugar_block": "Sugar Block",
+  "block.mutantsofdiscord.teemo_mushroom": "Teemo Mushroom",
+
+  "effect.mutantsofdiscord.stun": "Stun",
+  "sounds.mutantsofdiscord.eat_cocacola": "haha sound",
+  "sounds.mutantsofdiscord.teemo_mushroom_destroy": "Teemo mushroom destroyed",
+
+  "creativetab.mutantsofdiscord": "Mutants Of Discord"
+}

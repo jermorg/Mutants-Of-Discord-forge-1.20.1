@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mutantsofdiscord:item/cigarette_3d",
+		"particle": "mutantsofdiscord:item/cigarette_3d"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 5],
+			"to": [9, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 7, 2], "texture": "#0"},
+				"south": {"uv": [4, 6, 6, 8], "texture": "#0"},
+				"west": {"uv": [0, 2, 7, 4], "texture": "#0"},
+				"up": {"uv": [2, 11, 0, 4], "texture": "#0"},
+				"down": {"uv": [4, 4, 2, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [20, 168, 0],
+			"translation": [-5.25, 9.25, 12.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [19, 180, 0],
+			"translation": [-6.25, 3.25, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 9.5, 0.76]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 9.5, 0.75]
+		},
+		"ground": {
+			"rotation": [99, -11, 180],
+			"translation": [-1, -0.5, -5.5]
+		},
+		"gui": {
+			"rotation": [30.34, 32.7, -13.18],
+			"translation": [1, 5.75, 0],
+			"scale": [1, 1, 1.47]
+		},
+		"head": {
+			"rotation": [-21, 164, 0],
+			"translation": [1.75, 1.25, -10.25]
+		}
+	}
+}

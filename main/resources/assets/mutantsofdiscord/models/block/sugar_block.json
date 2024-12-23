@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mutantsofdiscord:block/sugar_block"
+  }
+}

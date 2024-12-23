@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "mutantsofdiscord:block/teemo_mushroom_3d"
+  },
+  "perspectives": {
+    "ground": {
+      "parent": "mutantsofdiscord:item/teemo_mushroom_2d"
+    },
+    "fixed": {
+      "parent": "mutantsofdiscord:item/teemo_mushroom_2d"
+    }
+  }
+}

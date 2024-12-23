@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#B#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dirt"
+    },
+    "B": {
+      "item": "minecraft:potion"
+    },
+    "S": {
+      "item": "minecraft:stone_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mutantsofdiscord:pepsi_original"
+  }
+}

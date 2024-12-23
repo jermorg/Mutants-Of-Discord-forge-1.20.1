@@ -1,0 +1,6 @@
+{
+  "parent": "mutantsofdiscord:block/sugar_block",
+  "textures": {
+    "layer0": "mutantsofdiscord:block/sugar_block"
+  }
+}

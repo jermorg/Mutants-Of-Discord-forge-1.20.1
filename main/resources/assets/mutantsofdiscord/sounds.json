@@ -1,0 +1,31 @@
+{
+  "eat_cocacola": {
+    "subtitle": "sounds.mutantsofdiscord.eat_cocacola",
+    "sounds": [
+      "mutantsofdiscord:eat_cocacola"
+    ]
+  },
+  "teemo_mushroom_destroy": {
+    "subtitle": "sounds.mutantsofdiscord.teemo_mushroom_destroy",
+    "sounds": [
+      "mutantsofdiscord:teemo_mushroom_destroy_1",
+      "mutantsofdiscord:teemo_mushroom_destroy"
+    ]
+  },
+  "creepy_nuts_otonoke_disc": {
+    "sounds": [
+      {
+        "name": "mutantsofdiscord:creepy_nuts_otonoke_disc",
+        "stream": true
+      }
+    ]
+  },
+  "napalm_death_you_suffer": {
+    "sounds": [
+      {
+        "name": "mutantsofdiscord:napalm_death_you_suffer",
+        "stream": true
+      }
+    ]
+  }
+}

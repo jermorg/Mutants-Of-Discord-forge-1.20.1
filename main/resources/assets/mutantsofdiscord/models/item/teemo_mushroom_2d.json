@@ -1,0 +1,18 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mutantsofdiscord:item/teemo_mushroom"
+  },
+  "perspectives": {
+    "firstperson": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0.1, -0.1],
+      "scale": [1.0, 1.0, 1.0]
+    },
+    "thirdperson": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [0.75, 0.75, 0.75]
+    }
+  }
+}

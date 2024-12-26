@@ -1,3 +1,6 @@
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1165568?style=for-the-badge&label=CurseForge&labelColor=%23181f30&color=%23f16436
+)](https://www.curseforge.com/minecraft/mc-mods/mutants-of-discord)
+
 ![Replace this with a description](https://cdn.modrinth.com/data/cached_images/12b71feb362ec1442b4f2b62c2e8ec296e601cef_0.webp)
 ## Add:
 - **Lol random drop** - _item that can only be found_;

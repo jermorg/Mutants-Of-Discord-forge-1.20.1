@@ -2,6 +2,7 @@ package com.jermorger.MutantsOfDiscord.events;
 
 import com.jermorger.MutantsOfDiscord.block.ModBlocks;
 import com.jermorger.MutantsOfDiscord.effect.ModEffects;
+import com.jermorger.MutantsOfDiscord.enchantment.StunEnchantment;
 import com.jermorger.MutantsOfDiscord.sound.ModSounds;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.particles.ParticleTypes;
@@ -59,6 +60,15 @@ public class ModEvents {
         }
     }
 
+
+    @SubscribeEvent
+    public void onLivingHurt(net.minecraftforge.event.entity.living.LivingHurtEvent event) {
+        if (event.getSource().getEntity() instanceof LivingEntity attacker) {
+            if (attacker.getMainHandItem().isEnchanted()) {
+                StunEnchantment.onAttack(event.getEntity(), attacker.getMainHandItem());
+            }
+        }
+    }
 
 
     private void createPoisonField(LivingEntity entity) {

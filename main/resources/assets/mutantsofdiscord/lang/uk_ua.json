@@ -3,15 +3,19 @@
   "item.mutantsofdiscord.cocacola_999": "Супер Кола",
   "item.mutantsofdiscord.pepsi_original": "Пепсі",
   "item.mutantsofdiscord.lolrandomdrop": "League Of Legends Випадковий Дроп",
-  "chat.mutantsofdiscord:lolrandomdrop.nothing_drop": "Нічього не випало(",
+  "chat.mutantsofdiscord:lolrandomdrop.nothing_drop": "Нічого не випало(",
   "item.mutantsofdiscord.cigarette_3d": "Сигарета",
   "item.mutantsofdiscord.okroshka": "Окрошка",
 
   "item.mutantsofdiscord.panteon_trident": "Пантеонівський Спис",
   "item.mutantsofdiscord.panteon_trident.tooltip": "Легендарний спис Пантеона\n\nНамалював: :)",
+  "item.mutantsofdiscord.ekko_r": "Вернутись Назад",
+  "item.mutantsofdiscord.ekko_r.tooltip": "Повертає на позицію, на якій ви були 5 секунд тому\nСхоже на [R] Екко",
 
   "block.mutantsofdiscord.sugar_block": "Блок Цукру",
   "block.mutantsofdiscord.teemo_mushroom": "Гриби Тімо",
+
+  "enchantment.mutantsofdiscord.stun": "Еффект Стану",
 
   "effect.mutantsofdiscord.stun": "Стан",
   "sounds.mutantsofdiscord.eat_cocacola": "ХАХАХА",

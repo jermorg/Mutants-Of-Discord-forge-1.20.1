@@ -4,6 +4,7 @@ import com.jermorger.MutantsOfDiscord.MutantsOfDiscord;
 import com.jermorger.MutantsOfDiscord.item.custom.CigaretteItem;
 import com.jermorger.MutantsOfDiscord.item.custom.LolRandomDropItem;
 import com.jermorger.MutantsOfDiscord.item.custom.PanteonTridentItem;
+import com.jermorger.MutantsOfDiscord.item.custom.TimeRewindItem;
 import com.jermorger.MutantsOfDiscord.sound.ModSounds;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.RecordItem;
@@ -42,9 +43,14 @@ public class ModItems {
             () -> new RecordItem(6, ModSounds.NAPALM_DEATH_YOU_SUFFER, new Item.Properties().stacksTo(1), 60));
 
 
+    public static final RegistryObject<Item> EKKO_R = ITEMS.register("ekko_r",
+            () -> new TimeRewindItem(new Item.Properties()
+                    .stacksTo(1)
+                    .defaultDurability(50)
+            ));
+
     public static final RegistryObject<Item> PANTEON_TRIDENT = ITEMS.register("panteon_trident",
             () -> new PanteonTridentItem(net.minecraft.world.item.Tiers.DIAMOND, 8, -2.4F, new Item.Properties()
-//                    .durability(1000)
                     .stacksTo(1)));
 
 

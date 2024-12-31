@@ -2,6 +2,7 @@ package com.jermorger.MutantsOfDiscord;
 
 import com.jermorger.MutantsOfDiscord.block.ModBlocks;
 import com.jermorger.MutantsOfDiscord.effect.ModEffects;
+import com.jermorger.MutantsOfDiscord.enchantment.ModEnchantments;
 import com.jermorger.MutantsOfDiscord.events.ModEvents;
 import com.jermorger.MutantsOfDiscord.item.ModCreativeModTabs;
 import com.jermorger.MutantsOfDiscord.item.ModItems;
@@ -28,6 +29,8 @@ public class MutantsOfDiscord {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModEnchantments.register(modEventBus);
 
         ModSounds.register(modEventBus);
         ModEffects.register(modEventBus);

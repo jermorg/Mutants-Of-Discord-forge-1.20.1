@@ -6,6 +6,8 @@
 
   "item.mutantsofdiscord.panteon_trident": "Pantheon Spear",
   "item.mutantsofdiscord.panteon_trident.tooltip": "The legendary Pantheon's Spear\n\nDraw by: :)",
+  "item.mutantsofdiscord.ekko_r": "CHRONOBREAK",
+  "item.mutantsofdiscord.ekko_r.tooltip": "Teleports you to the position you were at 5 seconds ago\nLike [R] Ekko",
 
   "item.mutantsofdiscord.lolrandomdrop": "League Of Legends Random Drop",
   "chat.mutantsofdiscord:lolrandomdrop.nothing_drop": "Nothing droped(",
@@ -18,6 +20,8 @@
 
   "block.mutantsofdiscord.sugar_block": "Sugar Block",
   "block.mutantsofdiscord.teemo_mushroom": "Teemo Mushroom",
+
+  "enchantment.mutantsofdiscord.stun": "Stun Effect",
 
   "effect.mutantsofdiscord.stun": "Stun",
   "sounds.mutantsofdiscord.eat_cocacola": "haha sound",
